@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "blogloopback": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "blogloopback",
+    "password": "",
+    "name": "blogloopback",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
